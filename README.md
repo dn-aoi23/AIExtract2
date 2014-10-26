@@ -8,8 +8,11 @@ this will serve as reference of the app FDApp developed by students of PUP San P
 this system is developed by:
 
 Cabillos, Manuel Ken L.
+=
 Domingo, Kristelle Ann M.
+=
 Soriano, Deanne Vanessa Lois C.
+=
 Zubieta, Ivan Christmer D.C.
 
 
