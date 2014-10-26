@@ -14,8 +14,6 @@ Domingo, Kristelle Ann M.
 Soriano, Deanne Vanessa Lois C.
 =
 Zubieta, Ivan Christmer D.C.
-
-
 ============
 
 this is the initial code provided that the flask and eve environment is not included
